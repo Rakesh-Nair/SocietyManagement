@@ -1,0 +1,23 @@
+{
+  "name": "societymanagement",
+  "version": "1.0.0",
+  "description": "Perform all activities for any housing society",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakesh-Nair/SocietyManagement.git"
+  },
+  "keywords": [
+    "society"
+  ],
+  "author": "Rakesh Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakesh-Nair/SocietyManagement/issues"
+  },
+  "homepage": "https://github.com/Rakesh-Nair/SocietyManagement#readme",
+  "dependencies": {}
+}
